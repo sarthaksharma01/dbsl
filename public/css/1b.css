@@ -1,0 +1,75 @@
+body{
+background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/blood-796x419.png);
+background-color: #cccccc;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.logo-img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.login-card {
+    display: none;
+}
+
+nav{
+color: azure;
+	height: 90px;
+	border-radius: 20px;
+	background-color: antiquewhite
+}
+.navbar-brand{
+ font-family: cursive;
+ font-style: italic  ;
+ color: crimson;
+ text-align: justify;
+}
+#spn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: crimson;
+    text-align: center;
+}
+#blud{
+    color: crimson;
+    align-content: center;
+    font-family: cursive;
+    font-style: italic bold ;
+    position: relative;
+    top: 40px;
+    left: -20px;
+}
+p.pa{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: crimson;
+    
+    background-color:#f8f9fa;
+}
+.fm1{
+    background-color: #f8f9fa;
+    border: solid darkred;
+    padding: 20px;
+}
+.bbtn{
+    text-align: center;
+    
+}
+.col-sm-10{
+    color: crimson;
+}
+#heading3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+marquee{
+    color: #f8f9fa;
+    border: solid #f8f9fa 2px;
+}
+::-webkit-input-placeholder{
+    color: crimson;
+}

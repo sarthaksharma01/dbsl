@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/blood-796x419.png);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+ nav{
+        color: azure;
+            height: 90px;
+            border-radius: 20px;
+            background-color: antiquewhite
+        }
+.navbar-brand{
+         font-family: cursive;
+         font-style: italic  ;
+         color: crimson;
+         text-align: justify;
+        }
+ #spn{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-style: italic;
+            color: crimson;
+            text-align: center;
+        }
+#blud{
+            color: crimson;
+            align-content: center;
+            font-family: cursive;
+            font-style: italic bold ;
+}
+marquee{
+    color: #f8f9fa;
+    border: solid #f8f9fa 2px;
+}
+.fm2{
+    background-color:crimson;
+    padding: 20px;
+    border : solid #f8f9fa 2px;
+}
+.row{
+    padding: 20px;
+}
+.suform{
+    text-align: center;
+    color: #f8f9fa;
+    
+}
+.bbtn2{
+    text-align: center;
+}
+#signhome{
+    color: green;
+}
